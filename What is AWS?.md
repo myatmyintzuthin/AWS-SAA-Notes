@@ -27,3 +27,13 @@ Cloud computing lets you focus on customers rather than on heavy lifting.
 Applications can be deployed in multiple regions around the world with a few clicks. This means that you cn provide lower latency and a better experience for your customers at a minimal cost.
 
 
+## 4 main aspects to consider while choosing right AWS region
+
+- Latency
+- Pricing
+- Service availability
+- Data compliance
+
+## Availability Zones
+
+![[Screenshot from 2023-02-23 10-10-24.png]]

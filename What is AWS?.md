@@ -39,3 +39,9 @@ Applications can be deployed in multiple regions around the world with a few cli
 ![[Screenshot from 2023-02-23 10-10-24.png]]
 
 Recommendation : Use at least 2 AZs, if one AZ fails, the application will have infrasture up and running in a second AZ to take over the traffic.
+
+## Interacting with AWS
+
+- AWS managment console
+- AWS command line interface (CLI)
+- AWS Software Development Kit (SDK)

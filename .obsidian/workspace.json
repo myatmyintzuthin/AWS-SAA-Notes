@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fe3383ed8c3db0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compute as a Service.md",
+                "file": "Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compute as a Service.md",
+                "file": "Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compute as a Service.md"
+                "file": "Networking.md"
               }
             }
           }
@@ -156,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ff3d20cf4879d5f",
+  "active": "0fe3383ed8c3db0e",
   "lastOpenFiles": [
+    "Compute as a Service.md",
+    "Networking.md",
     "Screenshot from 2023-02-23 15-57-41.png",
     "images/Screenshot from 2023-02-23 15-57-41 1.png",
-    "Compute as a Service.md",
     "AWS Technical Essentials.md",
     "README.md",
     "images",

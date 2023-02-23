@@ -99,3 +99,5 @@ AWS Lambda allow you run code without provisioning or managing servers or contai
 Upload the source code and Lambda takes care of everythin required to run and scale your code with high availability.
 
 Trigger, code, configuration.
+
+Charge for the number of times your code is triggered and for the time your code executes.

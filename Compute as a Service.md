@@ -67,4 +67,12 @@ In AWS, containers run on EC2 instances. People run many containers on many inst
 
 ### Amazon Elastic Container Service (Amazon ECS)
 
-First Install Amazon ECS container agent on EC2 instances. 
+Amazon ECS is an end-to-end container orchestration service that helps you spin up new containers and manage them across a cluster of EC2 instances.
+
+First Install Amazon ECS container agent on EC2 instances. This agent is open source and responsible for communicating to the Amazon ECS servie about cluster management details.
+Both Windows and Linux AMI support. 
+An instance with the container agent installed is often called a container instance.
+
+![[Screenshot from 2023-02-23 15-45-13.png]]
+
+### Amazon El

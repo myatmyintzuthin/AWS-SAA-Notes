@@ -18,4 +18,12 @@ You can scale up and down as you want with a few minutes.
 
 Resources are available to developers from weeks to minutes. Since cost and time it takes to experiment and develop is significantly lower.
 
+### Realize cost savings
+
+Cloud computing lets you focus on customers rather than on heavy lifting. 
+
+### Go global in minutes
+
+Applications can be deployed in multiple regions around the world with a few clicks. This means that you cn provide lower latency and a better experience for your customers at a minimal cost.
+
 

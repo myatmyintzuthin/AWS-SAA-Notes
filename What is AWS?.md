@@ -65,4 +65,10 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 }
 ```
 
-version - define version of p
+- version - define version of poilcy langauge. 
+- effect - specifies whether the statement will allow or deny access. 
+- action - describes the type of action should be allowed or denied.
+- resource - specifies the object or objects that the policy statement covers.
+
+## Role-based Access in AWS
+

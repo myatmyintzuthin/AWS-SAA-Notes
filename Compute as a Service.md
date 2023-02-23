@@ -60,3 +60,7 @@ Spot instances can be interrupted. If AWS determines that capacity is no longer 
 ## Containers
 
 A container is a standardized unit that packages your code and its dependencies. This package is designed to run reliably on any platform because the container creates its own independent environment. 
+Container share the same operating system and kernal as the host they exist on. whereas virtual machines contain their own operating system. 
+
+### Orchestrate containers
+In AWS, containers run on EC2 instances. People run many containers on many instances across AZ so

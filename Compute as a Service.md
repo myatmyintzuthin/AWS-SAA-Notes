@@ -90,8 +90,12 @@ Amazon EKS is conceptually similar to Amazon ECS but with some differences.
 
 Underline implementation and infrastructure are taken care from AWS. 
 AWS Fargate - serverless compute platform which can run with Amazon ECS or Amazon EKS.
-AWS Lambda 
+
 ![[Screenshot from 2023-02-23 15-57-41 1.png]]
 
 ## AWS Lambda
 
+AWS Lambda allow you run code without provisioning or managing servers or containers.
+Upload the source code and Lambda takes care of everythin required to run and scale your code with high availability.
+
+Trigger, code, configuration.

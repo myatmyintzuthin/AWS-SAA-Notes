@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Technical Essentials*.md",
+                "file": "AWS Technical Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Technical Essentials*.md",
+                "file": "AWS Technical Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Technical Essentials*.md",
+                "file": "AWS Technical Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Technical Essentials*.md"
+                "file": "AWS Technical Essentials.md"
               }
             }
           }
@@ -161,7 +161,7 @@
     "Screenshot from 2023-02-23 10-35-17.png",
     "Screenshot from 2023-02-23 10-10-24.png",
     "README.md",
-    "AWS Technical Essentials*.md",
+    "AWS Technical Essentials.md",
     "Test"
   ]
 }

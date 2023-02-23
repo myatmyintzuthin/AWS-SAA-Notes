@@ -43,5 +43,15 @@ When architecting any application for high availability, consider using at least
 ## Pricing
 
 ### On-Demand Instances
-Pay as you go. Billing starts whenever the instance is running and stops when the instance is in a stopped or terminated state.
+Pay as you go. Billing starts whenever the instance is running and stops when the instance is in a stopped or terminated state. The price per second on running instance is fixed.
 
+### Reserved Instances 
+
+Provide a discounted hourly rate. Need to commit to 1 year or 3 year.
+- All upfront - offers a higher discount than Partial upfront instances
+- Partial Upfront - offer a higher discount than No Upfront
+- No Upfront - offers a higher discount than On-Demand
+
+### Spot Instances
+
+Spot instances available at up to 90% discount compared to On-Demand prices. You can set a limit on how much you wo

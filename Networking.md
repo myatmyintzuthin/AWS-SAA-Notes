@@ -15,3 +15,7 @@ When you create a subnet, you must specify the following:
 
 ![[Screenshot from 2023-02-23 16-59-48.png]]
 
+AWS reserved 5 IP addresses in each subnet for routing, DNS, network management, future use and network broadcast address.
+
+Internet gateway - to enable internet connectivity for VPC. 
+virtual private gateway - connect AWS VPC to another private network. On the other side, you need to connect with customer gateway. Once the connection is done, establish an

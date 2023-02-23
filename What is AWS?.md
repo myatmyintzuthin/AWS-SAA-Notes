@@ -16,3 +16,6 @@ You can scale up and down as you want with a few minutes.
 
 ### Increase speed and agility
 
+Resources are available to developers from weeks to minutes. Since cost and time it takes to experiment and develop is significantly lower.
+
+

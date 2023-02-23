@@ -87,3 +87,5 @@ Amazon EKS is conceptually similar to Amazon ECS but with some differences.
 
 ## Serverless
 
+Underline implementation and infrastructure are taken care from AWS. 
+AWS Fargate - serverless compute platform. 

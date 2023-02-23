@@ -48,3 +48,4 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 
 ## Security and AWS Shared Responsibilty Model
 
+

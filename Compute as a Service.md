@@ -59,3 +59,4 @@ Spot instances can be interrupted. If AWS determines that capacity is no longer 
 
 ## Containers
 
+A container is a standardized unit that packages your code and its dependencies. This package is designed to run reliably on any platform because the container creates its own independent environment. 

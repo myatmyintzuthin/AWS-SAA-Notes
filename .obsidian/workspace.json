@@ -21,18 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute as a Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe3383ed8c3db0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Networking.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fe3383ed8c3db0e",
+  "active": "9ff3d20cf4879d5f",
   "lastOpenFiles": [
-    "Compute as a Service.md",
+    "Screenshot from 2023-02-23 16-59-02.png",
     "Networking.md",
+    "Screenshot from 2023-02-23 16-59-48.png",
+    "Compute as a Service.md",
     "Screenshot from 2023-02-23 15-57-41.png",
     "images/Screenshot from 2023-02-23 15-57-41 1.png",
     "AWS Technical Essentials.md",

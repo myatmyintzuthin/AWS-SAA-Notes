@@ -5,4 +5,13 @@ Amazon VPC is an isolated network that you create in the AWS cloud. When creatin
 - Region where the VPC will live. Each VPC spans multiple AZ within the selected region.
 - IP range for the VPC in CODR notation. 10.0.0.0/16
 
-After tV
+After VPC creation is done, create subnets for public and private.
+
+When you create a subnet, you must specify the following:
+
+-   VPC you want your subnet to live in. In this case: VPC (10.0.0.0/16)
+-   Availability Zone you want your subnet to live in. In this case: AZ1
+-   CIDR block for your subnet, which must be a subset of the VPC CIDR block. In this case: 10.0.0.0/24
+
+![[Screenshot from 2023-02-23 16-59-48.png]]
+

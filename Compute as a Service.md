@@ -24,3 +24,12 @@ You can select an AMI from the following categories:
 -   My AMIs, which are created from your EC2 instances
 -   Community AMIs, which are provided by the AWS user community
 -   Build your own custom image with EC2 Image Builder
+
+## EC2 instance family
+- General purpose
+- Compute optimized
+- Memory optimized
+- Accelerated computing
+- Storage optimized
+
+By default, EC2 instances are placed in a network called default Amazon Virtual Private Cloud (Amazon PVC) which is a public and accessible by the internet.

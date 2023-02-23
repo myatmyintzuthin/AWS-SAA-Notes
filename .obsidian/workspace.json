@@ -21,18 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Technical Essentials.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76b41ab490eb5729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Compute as a Service.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76b41ab490eb5729",
+  "active": "9ff3d20cf4879d5f",
   "lastOpenFiles": [
-    "AWS Technical Essentials.md",
+    "Screenshot from 2023-02-23 15-57-41.png",
+    "images/Screenshot from 2023-02-23 15-57-41 1.png",
     "Compute as a Service.md",
+    "AWS Technical Essentials.md",
     "README.md",
     "images",
     "images/Screenshot from 2023-02-23 15-45-13.png",

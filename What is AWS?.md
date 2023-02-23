@@ -51,3 +51,18 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 ![[Screenshot from 2023-02-23 10-35-17.png]]
 
 - Root user - use Multi-factor authentication
+
+## IAM policies
+
+```
+{  
+"Version": "2012-10-17",  
+"Statement": [{  
+"Effect": "Allow",  
+"Action": "*",  
+"Resource": "*"  
+}]  
+}
+```
+
+version - define version of p

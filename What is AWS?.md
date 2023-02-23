@@ -50,3 +50,4 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 
 ![[Screenshot from 2023-02-23 10-35-17.png]]
 
+Root user - use Multi-factor authentication

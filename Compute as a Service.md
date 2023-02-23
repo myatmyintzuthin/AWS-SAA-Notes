@@ -63,4 +63,8 @@ A container is a standardized unit that packages your code and its dependencies.
 Container share the same operating system and kernal as the host they exist on. whereas virtual machines contain their own operating system. 
 
 ### Orchestrate containers
-In AWS, containers run on EC2 instances. People run many containers on many instances across AZ so
+In AWS, containers run on EC2 instances. People run many containers on many instances across AZs. To manage many containers, AWS provide container orchestration services.
+
+### Amazon Elastic Container Service (Amazon ECS)
+
+First Install Amazon ECS container agent on EC2 instances. 

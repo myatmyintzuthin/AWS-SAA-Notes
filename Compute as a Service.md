@@ -33,3 +33,9 @@ You can select an AMI from the following categories:
 - Storage optimized
 
 By default, EC2 instances are placed in a network called default Amazon Virtual Private Cloud (Amazon PVC) which is a public and accessible by the internet.
+
+When architecting any application for high availability, consider using at least two EC2 instances in two separate availability zones.
+
+## EC2 instance lifecycle
+
+![[Screenshot from 2023-02-23 14-30-22.png]]

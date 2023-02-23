@@ -56,3 +56,6 @@ Provide a discounted hourly rate. Need to commit to 1 year or 3 year.
 
 Spot instances available at up to 90% discount compared to On-Demand prices. You can set a limit on how much you would like to pay for the instance hour. If the amount you pay is mor e than current spot price, you will receive an instance. 
 Spot instances can be interrupted. If AWS determines that capacity is no longer available for a particular spot instance or if the spot price exceeds how much you are willing to pay, AWS will give 2 min warning before it interrupts your instance.
+
+## Containers
+

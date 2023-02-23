@@ -64,10 +64,11 @@ Container share the same operating system and kernal as the host they exist on. 
 
 ### Orchestrate containers
 In AWS, containers run on EC2 instances. People run many containers on many instances across AZs. To manage many containers, AWS provide container orchestration services.
+Containers can run in Amazon EC2 mode or AWS Fargate mode.
 
 ### Amazon Elastic Container Service (Amazon ECS)
 
-Amazon ECS is an end-to-end container orchestration service that helps you spin up new containers and manage them across a cluster of EC2 instances.
+Amazon ECS is an end-to-end container orchestration service that helps you spin up new containers and manage them across a cluster of EC2 instances. 
 
 First Install Amazon ECS container agent on EC2 instances. This agent is open source and responsible for communicating to the Amazon ECS servie about cluster management details.
 Both Windows and Linux AMI support. 
@@ -89,6 +90,7 @@ Amazon EKS is conceptually similar to Amazon ECS but with some differences.
 
 Underline implementation and infrastructure are taken care from AWS. 
 AWS Fargate - serverless compute platform which can run with Amazon ECS or Amazon EKS.
+AWS Lambda 
 ![[Screenshot from 2023-02-23 15-57-41 1.png]]
 
 ## AWS Lambda

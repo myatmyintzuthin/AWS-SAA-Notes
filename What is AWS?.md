@@ -45,3 +45,6 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 - AWS managment console
 - AWS command line interface (CLI)
 - AWS Software Development Kit (SDK)
+
+## Security and AWS Shared Responsibilty Model
+

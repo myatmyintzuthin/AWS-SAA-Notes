@@ -39,3 +39,9 @@ When architecting any application for high availability, consider using at least
 ## EC2 instance lifecycle
 
 ![[Screenshot from 2023-02-23 14-30-22.png]]
+
+## Pricing
+
+### On-Demand Instances
+Pay as you go. Billing starts whenever the instance is running and stops when the instance is in a stopped or terminated state.
+

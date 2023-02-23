@@ -57,7 +57,7 @@ Provide a discounted hourly rate. Need to commit to 1 year or 3 year.
 Spot instances available at up to 90% discount compared to On-Demand prices. You can set a limit on how much you would like to pay for the instance hour. If the amount you pay is mor e than current spot price, you will receive an instance. 
 Spot instances can be interrupted. If AWS determines that capacity is no longer available for a particular spot instance or if the spot price exceeds how much you are willing to pay, AWS will give 2 min warning before it interrupts your instance.
 
-## Containers
+## **Containers**
 
 A container is a standardized unit that packages your code and its dependencies. This package is designed to run reliably on any platform because the container creates its own independent environment. 
 Container share the same operating system and kernal as the host they exist on. whereas virtual machines contain their own operating system. 
@@ -75,4 +75,15 @@ An instance with the container agent installed is often called a container insta
 
 ![[Screenshot from 2023-02-23 15-45-13.png]]
 
-### Amazon El
+### Amazon Elastic Kubernets Service (Amazon EKS)
+
+Kubernets is a portable, extensible open source platform for managing containerized workloads and services. If you have containers running on Kubernetes, use Amazon EKS.
+
+Amazon EKS is conceptually similar to Amazon ECS but with some differences.
+
+-   An EC2 instance with the ECS agent installed and configured is called a container instance. In Amazon EKS, it is called a worker node.
+-   An ECS container is called a task. In Amazon EKS, it is called a pod.
+-   While Amazon ECS runs on AWS native technology, Amazon EKS runs on top of Kubernetes.
+
+## Serverless
+

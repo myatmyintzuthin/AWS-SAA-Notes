@@ -69,3 +69,8 @@ If you enable versioning for a bucket, Amazon S3 automatically generates a uniqu
 - Amazon S3 Glacier
 - Amazon S3 Glacier Deep Archive
 
+### Life cycle management
+
+- Tansition
+- Expiration
+![[Screenshot from 2023-02-24 10-41-36.png]]

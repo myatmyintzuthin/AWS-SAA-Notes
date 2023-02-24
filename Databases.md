@@ -28,4 +28,8 @@ Amazon QLDB ledger database - immutable database
 
 Serverless NoSQL database with fast and seamless scalability. 
 All the data is stored on SSD and is automatically replicated across multiple AZ in an AWS Region.
+
+#### Core components
+
+
 Standalone tables 

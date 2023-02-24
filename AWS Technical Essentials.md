@@ -36,7 +36,7 @@ Applications can be deployed in multiple regions around the world with a few cli
 
 ## Availability Zones
 
-![[Screenshot from 2023-02-23 10-10-24.png]]
+![[images/Screenshot from 2023-02-23 10-10-24.png]]
 
 Recommendation : Use at least 2 AZs, if one AZ fails, the application will have infrasture up and running in a second AZ to take over the traffic.
 
@@ -48,7 +48,7 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 
 ## Security and AWS Shared Responsibilty Model
 
-![[Screenshot from 2023-02-23 10-35-17.png]]
+![[images/Screenshot from 2023-02-23 10-35-17.png]]
 
 - Root user - use Multi-factor authentication
 

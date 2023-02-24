@@ -34,5 +34,5 @@ All the data is stored on SSD and is automatically replicated across multiple AZ
 Tables - Standalone tables 
 Items
 Attributes
-![[Screenshot from 2023-02-24 14-10-21.png]]
+![[images/Screenshot from 2023-02-24 14-10-21.png]]
 

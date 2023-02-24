@@ -13,7 +13,7 @@ When you create a subnet, you must specify the following:
 -   Availability Zone you want your subnet to live in. In this case: AZ1
 -   CIDR block for your subnet, which must be a subset of the VPC CIDR block. In this case: 10.0.0.0/24
 
-![[Screenshot from 2023-02-23 16-59-48.png]]
+![[images/Screenshot from 2023-02-23 16-59-48.png]]
 
 AWS reserved 5 IP addresses in each subnet for routing, DNS, network management, future use and network broadcast address.
 
@@ -26,7 +26,7 @@ AWS creates a main route table when you create a VPC which contains a set of rul
 
 For explicit routing to separate subnet, use custom route table. 
 
-![[Screenshot from 2023-02-24 08-09-26.png]]
+![[images/Screenshot from 2023-02-24 08-09-26.png]]
 
 ## Amazon VPC Security
 

@@ -38,7 +38,7 @@ When architecting any application for high availability, consider using at least
 
 ## EC2 instance lifecycle
 
-![[Screenshot from 2023-02-23 14-30-22.png]]
+![[images/Screenshot from 2023-02-23 14-30-22.png]]
 
 ## Pricing
 
@@ -74,7 +74,7 @@ First Install Amazon ECS container agent on EC2 instances. This agent is open so
 Both Windows and Linux AMI support. 
 An instance with the container agent installed is often called a container instance.
 
-![[Screenshot from 2023-02-23 15-45-13.png]]
+![[images/Screenshot from 2023-02-23 15-45-13.png]]
 
 ### Amazon Elastic Kubernets Service (Amazon EKS)
 
@@ -91,7 +91,7 @@ Amazon EKS is conceptually similar to Amazon ECS but with some differences.
 Underline implementation and infrastructure are taken care from AWS. 
 AWS Fargate - serverless compute platform which can run with Amazon ECS or Amazon EKS.
 
-![[Screenshot from 2023-02-23 15-57-41 1.png]]
+![[images/Screenshot from 2023-02-23 15-57-41 1.png]]
 
 ## AWS Lambda
 

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba49614d5cb8fc31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9ff3d20cf4879d5f",
             "type": "leaf",
             "state": {
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bd409e3bf1aa46f1",
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases.md",
+                "file": "Storage Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases.md",
+                "file": "Storage Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases.md"
+                "file": "Storage Types.md"
               }
             }
           }
@@ -180,26 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad8a58d82805b459",
+  "active": "924e5a27ae491c0e",
   "lastOpenFiles": [
-    "Screenshot from 2023-02-24 14-10-21.png",
-    "Storage Types.md",
-    "Databases.md",
-    "Screenshot from 2023-02-24 10-41-36.png",
     "Networking.md",
-    "Screenshot from 2023-02-24 08-09-26.png",
-    "Screenshot from 2023-02-23 16-59-02.png",
-    "Screenshot from 2023-02-23 16-59-48.png",
+    "Databases.md",
     "Compute as a Service.md",
+    "AWS Technical Essentials.md",
+    "Storage Types.md",
+    "images/Screenshot from 2023-02-24 14-10-21.png",
+    "images/Screenshot from 2023-02-24 10-41-36.png",
+    "images/Screenshot from 2023-02-24 08-09-26.png",
+    "Screenshot from 2023-02-23 16-59-02.png",
+    "images/Screenshot from 2023-02-23 16-59-48.png",
     "Screenshot from 2023-02-23 15-57-41.png",
     "images/Screenshot from 2023-02-23 15-57-41 1.png",
-    "AWS Technical Essentials.md",
     "README.md",
     "images",
     "images/Screenshot from 2023-02-23 15-45-13.png",
     "images/Screenshot from 2023-02-23 14-30-22.png",
     "images/Screenshot from 2023-02-23 10-35-17.png",
-    "images/Screenshot from 2023-02-23 10-10-24.png",
     "Test"
   ]
 }

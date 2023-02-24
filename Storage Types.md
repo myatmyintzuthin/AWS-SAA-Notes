@@ -48,4 +48,11 @@ You should use S3 bucket policies in the following scenarios:
 -   You need a simple way to do cross-account access to S3, without using IAM roles.
 -   Your IAM policies bump up against the defined size limit. S3 bucket policies have a larger size limit.
 
-Amazon S4
+### Amazon S3 encryption
+
+For data at rest :
+- server-side encryption - encrypt data and save in AWS data centers
+- client-side encryption - encrypt data client side and upload it to Amazon S3
+
+For data at transit:
+Client-side encryption or Secure Socket Layer (SSL)

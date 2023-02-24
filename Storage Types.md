@@ -56,3 +56,10 @@ For data at rest :
 
 For data at transit:
 Client-side encryption or Secure Socket Layer (SSL)
+
+### Amazon S3 versioning
+
+If you enable versioning for a bucket, Amazon S3 automatically generates a unique version ID for the object. In one bucket, for example, you can have two objects with the same key, but different version IDs, such as employeephoto.gif (version 111111) and employeephoto.gif (version 121212).
+
+### Amazon S3 Storage Classes
+

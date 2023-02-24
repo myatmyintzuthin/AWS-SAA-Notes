@@ -26,5 +26,9 @@ Amazon EBS snapshots - backup of Amazon instance storage in Amazon EBS. only mod
 
 object storage and distributed storage. Standalone storage which isn't tied to compute. 
 
-S3 buckets
+S3 buckets - unlimited object storage.
+99.99999999999% durability and 99.99% availability 
+Everything in S3 is private by default. 
+There are two main access management features - IAM policies and S3 bucket policies.
 
+### IAM policies

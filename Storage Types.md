@@ -18,3 +18,4 @@ EBS use cases:
 -   **Throughput-intensive applications:** Applications that perform long, continuous reads and writes.
 
 SSD and HDD Types
+Amazon EBS snapshots - backup of Amazon instance storage in Amazon EBS. only modified data will be updated to EBS. You can create multiple new volumes from sna

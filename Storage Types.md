@@ -7,4 +7,6 @@
 
 Temporary block storage for an instance and physically attached to the instance. If EC2 instance goes down, this will also goes down. 
 
-## Amazon Elastic 
+## Amazon Elastic Block Storage (Amazon EBS)
+
+External storage device

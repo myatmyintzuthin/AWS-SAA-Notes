@@ -62,4 +62,9 @@ Client-side encryption or Secure Socket Layer (SSL)
 If you enable versioning for a bucket, Amazon S3 automatically generates a unique version ID for the object. In one bucket, for example, you can have two objects with the same key, but different version IDs, such as employeephoto.gif (version 111111) and employeephoto.gif (version 121212).
 
 ### Amazon S3 Storage Classes
-
+- Amazon S3 Standard
+- Amazon S3 Intelligent Tiering
+- Amazon S3 Standard-Infrequent Access (S3 Standard IA)
+- Amazon S3 One Zone Infrequent Access (S3 One Zone-IA)
+- Amazon S3 Glacier
+- Amazon S3 Glacier Deep Archive

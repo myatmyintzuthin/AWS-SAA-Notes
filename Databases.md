@@ -19,4 +19,12 @@ In an automatic failover, the standby database is promoted to the primary role, 
 
 ## Purpose-Built Databases
 
+Amazon DynamoDB 
+Amazon Document DB with MongoDB compatibility
+Amazon Neptune graph database
+Amazon QLDB ledger database - immutable database 
 
+# Amazon DynamoDB
+
+Serverless database. 
+Standalone tables 

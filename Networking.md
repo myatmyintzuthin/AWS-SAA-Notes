@@ -20,4 +20,11 @@ AWS reserved 5 IP addresses in each subnet for routing, DNS, network management,
 **Internet gateway** - to enable internet connectivity for VPC. 
 **virtual private gateway** - connect AWS VPC to another private network. On the other side, you need to connect with customer gateway. Once the connection is done, establish an encrypted VPN connection between the two sides.
 
+### Main route table
+
+AWS creates a main route table when you create a VPC which contains a set of rules to determine where network traffic is directed.
+
+For explicit routing to separate subnet, use custom route table. 
+
+
 

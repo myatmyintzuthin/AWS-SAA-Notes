@@ -24,5 +24,7 @@ Amazon EBS snapshots - backup of Amazon instance storage in Amazon EBS. only mod
 
 ## Amazon S3
 
-object storage and distributed storage.
+object storage and distributed storage. Standalone storage which isn't tied to compute. 
+
+S3 buckets
 

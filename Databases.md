@@ -16,3 +16,7 @@ Manual snapshots - automated backups longer than 35days
 Amazon RDS Multi-AZ will create a redundant copy of database in another AZ. 
 A primary copy in one AZ and standby copy in second AZ.
 In an automatic failover, the standby database is promoted to the primary role, and queries are redirected to the new primary database.
+
+## Purpose-Built Databases
+
+

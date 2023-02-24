@@ -77,4 +77,6 @@ If you enable versioning for a bucket, Amazon S3 automatically generates a uniqu
 
 ## Amazon EFS and Amazon FSx
 
-File s
+- File storage
+- can be mounted onto multiple EC2 instances
+- pay for what you use

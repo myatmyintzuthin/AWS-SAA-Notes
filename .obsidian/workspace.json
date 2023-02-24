@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "924e5a27ae491c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking.md",
+                "file": "Storage Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking.md",
+                "file": "Storage Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking.md"
+                "file": "Storage Types.md"
               }
             }
           }
@@ -156,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ff3d20cf4879d5f",
+  "active": "924e5a27ae491c0e",
   "lastOpenFiles": [
+    "Networking.md",
+    "Storage Types.md",
     "Screenshot from 2023-02-24 08-09-26.png",
     "Screenshot from 2023-02-23 16-59-02.png",
-    "Networking.md",
     "Screenshot from 2023-02-23 16-59-48.png",
     "Compute as a Service.md",
     "Screenshot from 2023-02-23 15-57-41.png",

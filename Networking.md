@@ -31,10 +31,10 @@ For explicit routing to separate subnet, use custom route table.
 ## Amazon VPC Security
 
 Network access control list - network ACL
-A firewall at the subnet level. Network ACL enables you to control what kind of traffic is allowed to enter or leave your subnet. 
+A firewall at the **subnet level**. Network ACL enables you to control what kind of traffic is allowed to enter or leave your subnet. 
 Everything is allowed in and out. You need to define inbound and outbound rules for allow or denied.
 
 Security Groups 
-A security layer of EC2 instances. The default configuration blocks all inbound traffic and allow all outbound traffic.
+A security layer of **EC2 instances**. The default configuration blocks all inbound traffic and allow all outbound traffic.
 
 

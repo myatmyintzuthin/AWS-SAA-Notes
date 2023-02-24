@@ -32,3 +32,20 @@ Everything in S3 is private by default.
 There are two main access management features - IAM policies and S3 bucket policies.
 
 ### IAM policies
+
+You should use IAM policies for private buckets in the following two scenarios:
+
+-   You have many buckets with different permission requirements. Instead of defining many different S3 bucket policies, you can use IAM policies.
+-   You want all policies to be in a centralized location. Using IAM policies allows you to manage all policy information in one location.
+
+### S3 bucket policies
+
+The difference in IAM policies is they are attaced to users, groups and roles whereas S3 bucket policies are only attached to S3 buckets. 
+Bucket policies can only be placed on buckets not on folders or objects. 
+
+You should use S3 bucket policies in the following scenarios:
+
+-   You need a simple way to do cross-account access to S3, without using IAM roles.
+-   Your IAM policies bump up against the defined size limit. S3 bucket policies have a larger size limit.
+
+Amazon S4

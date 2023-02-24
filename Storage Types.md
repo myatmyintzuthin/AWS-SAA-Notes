@@ -5,4 +5,6 @@
 
 ## Amazon EC2 instance Storage
 
-Temporary block storage for an i
+Temporary block storage for an instance and physically attached to the instance. If EC2 instance goes down, this will also goes down. 
+
+## Amazon Elastic 

@@ -74,3 +74,7 @@ If you enable versioning for a bucket, Amazon S3 automatically generates a uniqu
 - Tansition
 - Expiration
 ![[Screenshot from 2023-02-24 10-41-36.png]]
+
+## Amazon EFS and Amazon FSx
+
+File s

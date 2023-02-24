@@ -26,5 +26,7 @@ AWS creates a main route table when you create a VPC which contains a set of rul
 
 For explicit routing to separate subnet, use custom route table. 
 
+![[Screenshot from 2023-02-24 08-09-26.png]]
 
+## Amazon VPC Security
 

@@ -9,7 +9,9 @@ Temporary block storage for an instance and physically attached to the instance.
 
 ## Amazon Elastic Block Storage (Amazon EBS)
 
-External storage device to EC2 instance. If instance fails, data still remains in EBS.  You can detach an EBS volume from one EC2 instance and attach it to another EC2 instance in the same Availability Zone, to access the data on it.
+External storage device to EC2 instance. If instance fails, data still remains in EBS.  
+One EBS to one EC2 instance.
+You can detach an EBS volume from one EC2 instance and attach it to another EC2 instance in the same Availability Zone, to access the data on it.
 
 EBS use cases:
 -   **Operating systems:** Boot/root volumes to store an operating system. The root device for an instance launched from an Amazon Machine Image (AMI) is typically an Amazon EBS volume. These are commonly referred to as EBS-backed AMIs.
@@ -18,4 +20,9 @@ EBS use cases:
 -   **Throughput-intensive applications:** Applications that perform long, continuous reads and writes.
 
 SSD and HDD Types
-Amazon EBS snapshots - backup of Amazon instance storage in Amazon EBS. only modified data will be updated to EBS. You can create multiple new volumes from sna
+Amazon EBS snapshots - backup of Amazon instance storage in Amazon EBS. only modified data will be updated to EBS. You can create multiple new volumes from snapshots.
+
+## Amazon S3
+
+object storage and distributed storage.
+

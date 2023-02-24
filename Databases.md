@@ -26,5 +26,6 @@ Amazon QLDB ledger database - immutable database
 
 # Amazon DynamoDB
 
-Serverless database. 
+Serverless NoSQL database with fast and seamless scalability. 
+All the data is stored on SSD and is automatically replicated across multiple AZ in an AWS Region.
 Standalone tables 

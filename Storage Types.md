@@ -68,3 +68,4 @@ If you enable versioning for a bucket, Amazon S3 automatically generates a uniqu
 - Amazon S3 One Zone Infrequent Access (S3 One Zone-IA)
 - Amazon S3 Glacier
 - Amazon S3 Glacier Deep Archive
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring.md",
+                "file": "EC2 Auto Scaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoring.md",
+                "file": "EC2 Auto Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monitoring.md",
+                "file": "EC2 Auto Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monitoring.md"
+                "file": "EC2 Auto Scaling.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "ad8a58d82805b459",
   "lastOpenFiles": [
+    "Monitoring.md",
+    "EC2 Auto Scaling.md",
     "Untitled.canvas",
     "AWS Technical Essentials.md",
-    "Monitoring.md",
     "Databases.md",
     "images/Screenshot from 2023-02-24 14-18-44.png",
     "Storage Types.md",

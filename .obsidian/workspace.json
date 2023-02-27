@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2 Auto Scaling.md",
+                "file": "AWS Technical Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bd409e3bf1aa46f1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EC2 Auto Scaling.md",
+                "file": "AWS Technical Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EC2 Auto Scaling.md",
+                "file": "AWS Technical Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EC2 Auto Scaling.md"
+                "file": "AWS Technical Essentials.md"
               }
             }
           }
@@ -149,15 +148,16 @@
   },
   "active": "ad8a58d82805b459",
   "lastOpenFiles": [
-    "Monitoring.md",
+    "images/Screenshot from 2023-02-27 09-45-00.png",
+    "Compute as a Service.md",
     "EC2 Auto Scaling.md",
+    "Monitoring.md",
     "Untitled.canvas",
     "AWS Technical Essentials.md",
     "Databases.md",
     "images/Screenshot from 2023-02-24 14-18-44.png",
     "Storage Types.md",
     "Networking.md",
-    "Compute as a Service.md",
     "images/Screenshot from 2023-02-24 14-10-21.png",
     "images/Screenshot from 2023-02-24 10-41-36.png",
     "images/Screenshot from 2023-02-24 08-09-26.png",

@@ -72,7 +72,7 @@ Recommendation : Use at least 2 AZs, if one AZ fails, the application will have 
 
 ## Role-based Access in AWS
 
-
+![[images/Screenshot from 2023-02-27 09-45-00.png]]
 # Other Topics
 
 - [[Compute as a Service]]

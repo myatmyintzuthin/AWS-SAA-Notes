@@ -32,7 +32,7 @@ You can select an AMI from the following categories:
 - Accelerated computing
 - Storage optimized
 
-By default, EC2 instances are placed in a network called default Amazon Virtual Private Cloud (Amazon PVC) which is a public and accessible by the internet.
+By default, EC2 instances are placed in a network called default Amazon Virtual Private Cloud (Amazon VPC) which is a public and accessible by the internet.
 
 When architecting any application for high availability, consider using at least two EC2 instances in two separate availability zones.
 
@@ -76,7 +76,7 @@ An instance with the container agent installed is often called a container insta
 
 ![[images/Screenshot from 2023-02-23 15-45-13.png]]
 
-### Amazon Elastic Kubernets Service (Amazon EKS)
+### Amazon Elastic Kubernetes Service (Amazon EKS)
 
 Kubernets is a portable, extensible open source platform for managing containerized workloads and services. If you have containers running on Kubernetes, use Amazon EKS.
 
@@ -101,3 +101,6 @@ Upload the source code and Lambda takes care of everythin required to run and sc
 Trigger, code, configuration.
 
 Charge for the number of times your code is triggered and for the time your code executes.
+
+![[Screenshot from 2023-02-27 12-55-05.png]]![[Screenshot from 2023-02-27 12-58-40.png]]
+![[Screenshot from 2023-02-27 12-59-17.png]]

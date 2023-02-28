@@ -81,3 +81,7 @@ If you enable versioning for a bucket, Amazon S3 automatically generates a uniqu
 - File storage
 - can be mounted onto multiple EC2 instances
 - pay for what you use
+
+![[Screenshot from 2023-02-27 13-41-37.png]]![[Screenshot from 2023-02-27 13-44-28.png]]
+![[Screenshot from 2023-02-27 13-45-26.png]]
+![[Screenshot from 2023-02-27 13-57-51.png]]

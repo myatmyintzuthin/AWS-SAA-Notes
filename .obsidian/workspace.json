@@ -11,15 +11,8 @@
             "id": "ad8a58d82805b459",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,20 +141,20 @@
   "active": "ad8a58d82805b459",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "images/Screenshot from 2023-02-27 13-57-51.png",
+    "images/Screenshot from 2023-02-27 13-45-26.png",
+    "images/Screenshot from 2023-02-27 13-41-37.png",
+    "images/Screenshot from 2023-02-27 12-59-17.png",
+    "images/Screenshot from 2023-02-27 12-55-05.png",
     "Databases.md",
     "AWS Technical Essentials.md",
     "Storage Types.md",
     "Networking.md",
     "Monitoring.md",
     "EC2 Auto Scaling.md",
-    "Screenshot from 2023-02-27 13-57-51.png",
-    "Screenshot from 2023-02-27 13-45-26.png",
-    "Screenshot from 2023-02-27 13-44-28.png",
-    "Screenshot from 2023-02-27 13-41-37.png",
+    "images/Screenshot from 2023-02-27 13-44-28.png",
     "Compute as a Service.md",
-    "Screenshot from 2023-02-27 12-59-17.png",
-    "Screenshot from 2023-02-27 12-58-40.png",
-    "Screenshot from 2023-02-27 12-55-05.png",
+    "images/Screenshot from 2023-02-27 12-58-40.png",
     "images/Screenshot from 2023-02-27 09-45-00.png",
     "images/Screenshot from 2023-02-24 14-18-44.png",
     "images/Screenshot from 2023-02-24 14-10-21.png",

@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad8a58d82805b459",
+            "id": "2735b452648ecc5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS Security, Identity, and Compliance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS Security, Identity, and Compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS Security, Identity, and Compliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,14 +125,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS Security, Identity, and Compliance.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad8a58d82805b459",
+  "active": "2735b452648ecc5a",
   "lastOpenFiles": [
+    "Screenshot from 2023-03-05 17-05-24.png",
+    "Screenshot from 2023-03-05 16-55-53.png",
+    "AWS Security, Identity, and Compliance.md",
     "Untitled.canvas",
     "images/Screenshot from 2023-02-27 13-57-51.png",
     "images/Screenshot from 2023-02-27 13-45-26.png",
@@ -157,7 +169,6 @@
     "images/Screenshot from 2023-02-27 12-58-40.png",
     "images/Screenshot from 2023-02-27 09-45-00.png",
     "images/Screenshot from 2023-02-24 14-18-44.png",
-    "images/Screenshot from 2023-02-24 14-10-21.png",
     "README.md",
     "images",
     "Test"

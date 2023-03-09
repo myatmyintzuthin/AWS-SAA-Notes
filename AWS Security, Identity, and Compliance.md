@@ -1,4 +1,4 @@
-pyan
+
 ## AWS Well-Architected Framework
 
 - operational excellence
